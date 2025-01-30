@@ -9,7 +9,7 @@ Highly motivated student and developer passionate about continuous learning and 
 - ⚡ Fun fact: **I enjoy working on diverse tech challenges!**
 
 ### 🚀 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AfhamHaleema-blue)](https://www.linkedin.com/in/afhamhaleema)  
+(https://www.linkedin.com/in/afhamhaleema)  
 
 ---
 
