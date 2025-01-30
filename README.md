@@ -3,6 +3,8 @@
 ### 💥 About Me 💥  
 Highly motivated student and developer passionate about continuous learning and growth. Currently pursuing a Bachelor's in Computer Science, I specialize in mobile app and web development, and am deeply interested in AI and tech innovations. I enjoy challenging myself with personal projects and have a strong drive to achieve both personal and professional growth.
 
+![Profile Views](https://komarev.com/ghpvc/?username=afhamhaleema)
+
 - 🔭 Currently working on: **Mobile app development projects**  
 - 🌱 Learning: **AI, Flutter, Web Development, Arduino**  
 - 💬 Ask me about: **Mobile app development, Web development, AI**  
