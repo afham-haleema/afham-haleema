@@ -25,3 +25,5 @@ Highly motivated student and developer passionate about continuous learning and 
 
 ### ⚡ GitHub Stats ⚡
 ![Afham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afham-haleema&show_icons=true&hide_title=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afham-haleema&layout=compact)
